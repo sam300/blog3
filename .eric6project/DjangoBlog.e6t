@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project DjangoBlog -->
+<!-- Saved: 2016-10-31, 00:31:18 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="2" uid="{d82b3647-2b7b-45b8-9114-c51dd35f7f9e}">
+    <Summary>WARNING: keep the secret key used in production secret!</Summary>
+    <Description></Description>
+    <Created>2016-10-31, 00:20:25</Created>
+    <Resource>
+      <Filename>mysite/settings.py</Filename>
+      <Linenumber>22</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="2" uid="{df591919-9c27-4627-bd55-6131b34b6ad8}">
+    <Summary>WARNING: don't run with debug turned on in production!</Summary>
+    <Description></Description>
+    <Created>2016-10-31, 00:20:25</Created>
+    <Resource>
+      <Filename>mysite/settings.py</Filename>
+      <Linenumber>25</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
